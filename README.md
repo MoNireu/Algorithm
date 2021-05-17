@@ -10,11 +10,11 @@
 
 ## Hash
 ### Programmers
-- [위장](https://github.com/MoNireu/Algorithm/blob/main/hash/Programmers/42578.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42578)
+- [위장](https://github.com/MoNireu/Algorithm/blob/main/hash/programmers/42578.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42578)
 
 ## Sort
 ### Programmers
-- [전화번호 목록](https://github.com/MoNireu/Algorithm/blob/main/sort/Programmers/42577.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42577)
+- [전화번호 목록](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42577.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42577)
 
 
 ## DFS
