@@ -2,11 +2,17 @@
 알고리즘 코드 정리
 
 ## 카테고리
+- [Stack](#stack)
 - [Hash](#hash)
 - [Sort](#sort)
 - [DFS](#dfs)
 
 ---
+
+## Stack
+### Programmers
+- [프린터](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42587.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42587)
+
 
 ## Hash
 ### Programmers
