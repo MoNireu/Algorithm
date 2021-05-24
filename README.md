@@ -3,6 +3,7 @@
 
 ## 카테고리
 - [Stack](#stack)
+- [Queue](#queue)
 - [Hash](#hash)
 - [Sort](#sort)
 - [DFS](#dfs)
@@ -13,6 +14,10 @@
 ### Programmers
 - [프린터](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42587.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
+
+## Queue
+### Programmers
+- [다리를 지나는 트럭](https://github.com/MoNireu/Algorithm/blob/main/queue/programmers/42583.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42583#)
 
 ## Hash
 ### Programmers
