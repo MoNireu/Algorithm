@@ -13,6 +13,7 @@
 ## Stack
 ### Programmers
 - [프린터](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42587.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42587)
+- [주식가격](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42584.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42584)
 
 
 ## Queue
