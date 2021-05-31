@@ -6,6 +6,7 @@
 - [Queue](#queue)
 - [Hash](#hash)
 - [Sort](#sort)
+- [Heap](#heap)
 - [DFS](#dfs)
 
 ---
@@ -27,6 +28,10 @@
 ## Sort
 ### Programmers
 - [전화번호 목록](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42577.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42577)
+
+## Heap
+### Programmers
+- [더 맵게](https://github.com/MoNireu/Algorithm/blob/main/heap/programmers/42626.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42626)
 
 
 ## DFS
