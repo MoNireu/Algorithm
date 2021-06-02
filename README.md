@@ -32,6 +32,7 @@
 ## Heap
 ### Programmers
 - [더 맵게](https://github.com/MoNireu/Algorithm/blob/main/heap/programmers/42626.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42626)
+- [디스크 컨트롤러](https://github.com/MoNireu/Algorithm/blob/main/heap/programmers/42627.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42627)
 
 
 ## DFS
