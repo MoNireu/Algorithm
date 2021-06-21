@@ -29,6 +29,7 @@
 ### Programmers
 - [전화번호 목록](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42577.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42577)
 - [가장 큰 수](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42746.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42746)
+- [H-Index](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42747.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42747)
 
 ## Heap
 ### Programmers
