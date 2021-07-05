@@ -8,6 +8,7 @@
 - [Sort](#sort)
 - [Heap](#heap)
 - [DFS](#dfs)
+- [Greedy](#greedy)
 
 ---
 
@@ -44,5 +45,8 @@
 - [소수 찾기](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/42839.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42839)
 
 
+## Greedy
+### Programmers
+- [체육복](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42862.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42862)
 
 
