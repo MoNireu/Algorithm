@@ -15,6 +15,7 @@
 ## Binary Search
 ### Programmers
 - [입국심사](https://github.com/MoNireu/Algorithm/blob/main/binary_search/programmers/43238.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/43238)
+- [징검다리](https://github.com/MoNireu/Algorithm/blob/main/binary_search/programmers/43236.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/43236)
 
 ## DFS
 ### Programmers
