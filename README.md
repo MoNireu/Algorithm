@@ -28,6 +28,7 @@
 - [체육복](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42862.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [조이스틱](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42860.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42860)
 - [큰 수 구하기](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42883.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42883)
+- [구명보트](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42885.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42885)
 
 ## Hash
 ### Programmers
