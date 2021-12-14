@@ -31,6 +31,7 @@
 - [01타일(1904번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1904.py) [(문제보기)](https://www.acmicpc.net/problem/1904)
 - [신나는 함수 실행(9184번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/9184.py) [(문제보기)](https://www.acmicpc.net/problem/9184)
 - [정수 삼각형(1932번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1932.py) [(문제보기)](https://www.acmicpc.net/problem/1932)
+- [⭐️계단 오르기(2579번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/2579.py) [(문제보기)](https://www.acmicpc.net/problem/2579)
 
 ## Greedy
 ### Programmers
