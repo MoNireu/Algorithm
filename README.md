@@ -30,6 +30,7 @@
 - [피보나치함수(1003번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1003.py) [(문제보기)](https://www.acmicpc.net/problem/1003)
 - [01타일(1904번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1904.py) [(문제보기)](https://www.acmicpc.net/problem/1904)
 - [신나는 함수 실행(9184번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/9184.py) [(문제보기)](https://www.acmicpc.net/problem/9184)
+- [정수 삼각형(1932번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1932.py) [(문제보기)](https://www.acmicpc.net/problem/1932)
 
 ## Greedy
 ### Programmers
