@@ -33,6 +33,7 @@
 - [정수 삼각형(1932번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1932.py) [(문제보기)](https://www.acmicpc.net/problem/1932)
 - [⭐️계단 오르기(2579번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/2579.py) [(문제보기)](https://www.acmicpc.net/problem/2579)
 - [1로 만들기(1463번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1463.py) [(문제보기)](https://www.acmicpc.net/problem/1463)
+- [⭐️포도주 시식(2156번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/2156.py) [(문제보기)](https://www.acmicpc.net/problem/2156)
 
 ## Greedy
 ### Programmers
