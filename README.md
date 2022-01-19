@@ -36,6 +36,7 @@
 - [⭐️포도주 시식(2156번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/2156.py) [(문제보기)](https://www.acmicpc.net/problem/2156)
 - [⭐️가장 긴 증가하는 부분 수열(11053번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/11053.py) [(문제보기)](https://www.acmicpc.net/problem/11053)
 - [가장 긴 바이토닉 부분 수열(11054번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/11054.py) [(문제보기)](https://www.acmicpc.net/problem/11054)
+- [⭐️전깃줄(2565번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/2565.py) [(문제보기)](https://www.acmicpc.net/problem/2565)
 
 ## Greedy
 ### Programmers
