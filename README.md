@@ -39,6 +39,7 @@
 - [⭐️전깃줄(2565번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/2565.py) [(문제보기)](https://www.acmicpc.net/problem/2565)
 - [⭐️LCS(9251번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/9251.py) [(문제보기)](https://www.acmicpc.net/problem/9251)
 - [연속합(1912번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1912.py) [(문제보기)](https://www.acmicpc.net/problem/1912)
+- [⭐️평범한 배낭(12865번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/12865.py) [(문제보기)](https://www.acmicpc.net/problem/12865)
 
 
 ## Greedy
