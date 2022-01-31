@@ -45,6 +45,7 @@
 ## Greedy
 ### BOJ
 - [동전 0](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/11047.py) [(문제보기)](https://www.acmicpc.net/problem/11047)
+- [ATM](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/11399.py) [(문제보기)](https://www.acmicpc.net/problem/11399)
 ### Programmers
 - [체육복](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42862.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [조이스틱](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42860.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42860)
