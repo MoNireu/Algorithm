@@ -48,6 +48,7 @@
 - [ATM](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/11399.py) [(문제보기)](https://www.acmicpc.net/problem/11399)
 - [잃어버린 괄호](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/1541.py) [(문제보기)](https://www.acmicpc.net/problem/1541)
 - [주유소](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/13305.py) [(문제보기)](https://www.acmicpc.net/problem/13305)
+- [회의실 배정](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/1931.py) [(문제보기)](https://www.acmicpc.net/problem/1931)
 ### Programmers
 - [체육복](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42862.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [조이스틱](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42860.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42860)
