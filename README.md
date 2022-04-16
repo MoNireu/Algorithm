@@ -93,3 +93,4 @@
 ## ETC
 ### Programmers
 - [카펫](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/42842.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42842)
+- [신규 아이디 추천](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/72410.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/72410?language=swift#)
