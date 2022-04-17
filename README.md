@@ -12,6 +12,7 @@
 - [Queue](#queue)
 - [Sort](#sort)
 - [Stack](#stack)
+- [String](#string)
 - [ETC](#etc)
 ---
 
@@ -89,8 +90,15 @@
 - [프린터](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42587.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42587)
 - [주식가격](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42584.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42584)
 
+## String
+### Programmers
+- [신규 아이디 추천](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/72410.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/72410?language=swift#)
+- [문자열 압축](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/60057.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60057)
 
 ## ETC
 ### Programmers
 - [카펫](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/42842.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42842)
-- [신규 아이디 추천](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/72410.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/72410?language=swift#)
+- [로또의 최고 순위와 최저 순위](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77484.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77484)
+
+
+
