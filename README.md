@@ -69,6 +69,7 @@
 ## Hash
 ### Programmers
 - [위장](https://github.com/MoNireu/Algorithm/blob/main/hash/programmers/42578.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42578)
+- [오픈채팅방](https://github.com/MoNireu/Algorithm/blob/main/hash/programmers/42888.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42888)
 
 ## Heap
 ### Programmers
