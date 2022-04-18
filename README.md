@@ -102,6 +102,6 @@
 - [카펫](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/42842.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [로또의 최고 순위와 최저 순위](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77484.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77484)
 - [[1차] 추석 트래픽](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17676.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17676)
-
+- [멀쩡한 사각형](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/62048.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/62048)
 
 
