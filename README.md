@@ -106,4 +106,5 @@
 - [[1차] 추석 트래픽](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17676.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [멀쩡한 사각형](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/62048.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/62048)
 - [행렬 테두리 회전하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77485.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77485)
+- [거리두기 확인하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/81302.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81302)
 
