@@ -104,6 +104,7 @@
 - [문자열 압축](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/60057.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [숫자 문자열과 영단어](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/81301.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81301)
 - [k진수에서 소수 개수 구하기](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/92335.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92335)
+- [주차 요금 계산](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/92341.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92341)
 
 ## ETC
 ### Programmers
