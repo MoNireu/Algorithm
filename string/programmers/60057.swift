@@ -51,6 +51,4 @@ func solution(_ s:String) -> Int {
     return resultStringLengths.min()!
 }
 
-print(solution("abcabcabcabcdededededede"))
-
 
