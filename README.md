@@ -103,6 +103,7 @@
 - [신규 아이디 추천](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/72410.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/72410?language=swift#)
 - [문자열 압축](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/60057.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [숫자 문자열과 영단어](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/81301.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81301)
+- [k진수에서 소수 개수 구하기](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/92335.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92335)
 
 ## ETC
 ### Programmers
