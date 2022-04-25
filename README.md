@@ -36,6 +36,7 @@
 - [[카카오 인턴] 수식 최대화](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/67257.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/67257)
 - [여행경로](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/43164.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/43164)
 - [소수 찾기](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/42839.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42839)
+- [메뉴 리뉴얼](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/72411.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/72411)
 
 ## DP
 ### BOJ
@@ -115,4 +116,5 @@
 - [멀쩡한 사각형](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/62048.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/62048)
 - [행렬 테두리 회전하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77485.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77485)
 - [거리두기 확인하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/81302.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81302)
+- [음양 더하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/76501.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/76501)
 
