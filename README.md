@@ -20,21 +20,25 @@
 ## BFS
 ### BOJ
 - [MooTube(15591번)](https://github.com/MoNireu/Algorithm/blob/main/bfs/boj/15591.py) [(문제보기)](https://www.acmicpc.net/problem/15591)
+### Programmers
+---
 
 ## Binary Search
+### BOJ
+- [수 찾기(1920번)](https://github.com/MoNireu/Algorithm/blob/main/binary_search/boj/1920.py) [(문제보기)](https://www.acmicpc.net/problem/1920)
 ### Programmers
 - [입국심사](https://github.com/MoNireu/Algorithm/blob/main/binary_search/programmers/43238.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/43238)
 - [징검다리](https://github.com/MoNireu/Algorithm/blob/main/binary_search/programmers/43236.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/43236)
-
-### BOJ
-- [수 찾기(1920번)](https://github.com/MoNireu/Algorithm/blob/main/binary_search/boj/1920.py) [(문제보기)](https://www.acmicpc.net/problem/1920)
+---
 
 ## DFS
+### BOJ
 ### Programmers
 - [[카카오 인턴] 수식 최대화](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/67257.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/67257)
 - [여행경로](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/43164.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/43164)
 - [소수 찾기](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/42839.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42839)
 - [메뉴 리뉴얼](https://github.com/MoNireu/Algorithm/blob/main/dfs/Programmers/72411.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/72411)
+---
 
 ## DP
 ### BOJ
@@ -51,6 +55,8 @@
 - [⭐️LCS(9251번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/9251.py) [(문제보기)](https://www.acmicpc.net/problem/9251)
 - [연속합(1912번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1912.py) [(문제보기)](https://www.acmicpc.net/problem/1912)
 - [⭐️평범한 배낭(12865번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/12865.py) [(문제보기)](https://www.acmicpc.net/problem/12865)
+### Programmers
+---
 
 ## Greedy
 ### BOJ
@@ -65,48 +71,64 @@
 - [큰 수 구하기](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42883.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42883)
 - [구명보트](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/42885.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42885)
 - [양궁대회](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/92342.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92342)
+---
 
 ## Hash
+### BOJ
 ### Programmers
 - [위장](https://github.com/MoNireu/Algorithm/blob/main/hash/programmers/42578.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42578)
 - [오픈채팅방](https://github.com/MoNireu/Algorithm/blob/main/hash/programmers/42888.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42888)
+---
 
 ## Heap
+### BOJ
 ### Programmers
 - [더 맵게](https://github.com/MoNireu/Algorithm/blob/main/heap/programmers/42626.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42626)
 - [디스크 컨트롤러](https://github.com/MoNireu/Algorithm/blob/main/heap/programmers/42627.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42627)
+---
 
 ## LinkedList
+### BOJ
 ### Programmers
 - [⭐️표 편집](https://github.com/MoNireu/Algorithm/blob/main/linked_list/programmers/81303.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81303)
+---
 
 ## Queue
+### BOJ
 ### Programmers
 - [다리를 지나는 트럭](https://github.com/MoNireu/Algorithm/blob/main/queue/programmers/42583.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42583#)
+---
 
 ## Sort
+### BOJ
 ### Programmers
 - [전화번호 목록](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42577.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42577)
 - [가장 큰 수](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42746.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42746)
 - [H-Index](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42747.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42747)
+---
 
 ## Stack
+### BOJ
 ### Programmers
 - [프린터](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42587.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42587)
 - [주식가격](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42584.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42584)
 - [크레인 인형뽑기 게임](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/64061.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - [짝지어 제거하기](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/12973.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/12973)
 - [괄호 변환](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/60058.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60058)
+---
 
 ## String
+### BOJ
 ### Programmers
 - [신규 아이디 추천](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/72410.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/72410?language=swift#)
 - [문자열 압축](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/60057.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [숫자 문자열과 영단어](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/81301.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81301)
 - [k진수에서 소수 개수 구하기](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/92335.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92335)
 - [주차 요금 계산](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/92341.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92341)
+---
 
 ## ETC
+### BOJ
 ### Programmers
 - [카펫](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/42842.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [로또의 최고 순위와 최저 순위](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77484.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77484)
@@ -115,4 +137,4 @@
 - [행렬 테두리 회전하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77485.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77485)
 - [거리두기 확인하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/81302.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81302)
 - [음양 더하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/76501.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/76501)
-
+---
