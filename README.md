@@ -58,6 +58,18 @@
 ### Programmers
 ---
 
+## ETC
+### BOJ
+### Programmers
+- [카펫](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/42842.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42842)
+- [로또의 최고 순위와 최저 순위](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77484.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77484)
+- [[1차] 추석 트래픽](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17676.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17676)
+- [멀쩡한 사각형](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/62048.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/62048)
+- [행렬 테두리 회전하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77485.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77485)
+- [거리두기 확인하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/81302.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81302)
+- [음양 더하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/76501.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/76501)
+---
+
 ## Greedy
 ### BOJ
 - [동전 0](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/11047.py) [(문제보기)](https://www.acmicpc.net/problem/11047)
@@ -125,16 +137,4 @@
 - [숫자 문자열과 영단어](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/81301.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81301)
 - [k진수에서 소수 개수 구하기](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/92335.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92335)
 - [주차 요금 계산](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/92341.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92341)
----
-
-## ETC
-### BOJ
-### Programmers
-- [카펫](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/42842.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42842)
-- [로또의 최고 순위와 최저 순위](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77484.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77484)
-- [[1차] 추석 트래픽](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17676.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17676)
-- [멀쩡한 사각형](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/62048.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/62048)
-- [행렬 테두리 회전하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77485.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77485)
-- [거리두기 확인하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/81302.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81302)
-- [음양 더하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/76501.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/76501)
 ---
