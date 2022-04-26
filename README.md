@@ -3,17 +3,17 @@
 
 ## 카테고리
 - [BFS](#bfs)
-- [Binary Search](#binary-search)
+- [BINARY SEARCH](#binary-search)
 - [DFS](#dfs)
 - [DP](#dp)
-- [Greedy](#greedy)
-- [Hash](#hash)
-- [Heap](#heap)
-- [LinkedList](#linkedlist)
-- [Queue](#queue)
-- [Sort](#sort)
-- [Stack](#stack)
-- [String](#string)
+- [GREEDY](#greedy)
+- [HASH](#hash)
+- [HEAP](#heap)
+- [LINKED LIST](#linked-list)
+- [QUEUE](#queue)
+- [SORT](#sort)
+- [STACK](#stack)
+- [STRING](#string)
 - [ETC](#etc)
 ---
 
@@ -23,7 +23,7 @@
 ### Programmers
 ---
 
-## Binary Search
+## BINARY SEARCH
 ### BOJ
 - [수 찾기(1920번)](https://github.com/MoNireu/Algorithm/blob/main/binary_search/boj/1920.py) [(문제보기)](https://www.acmicpc.net/problem/1920)
 ### Programmers
@@ -70,7 +70,7 @@
 - [음양 더하기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/76501.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/76501)
 ---
 
-## Greedy
+## GREEDY
 ### BOJ
 - [동전 0](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/11047.py) [(문제보기)](https://www.acmicpc.net/problem/11047)
 - [ATM](https://github.com/MoNireu/Algorithm/blob/main/greedy/boj/11399.py) [(문제보기)](https://www.acmicpc.net/problem/11399)
@@ -85,33 +85,33 @@
 - [양궁대회](https://github.com/MoNireu/Algorithm/blob/main/greedy/programmers/92342.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/92342)
 ---
 
-## Hash
+## HASH
 ### BOJ
 ### Programmers
 - [위장](https://github.com/MoNireu/Algorithm/blob/main/hash/programmers/42578.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42578)
 - [오픈채팅방](https://github.com/MoNireu/Algorithm/blob/main/hash/programmers/42888.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42888)
 ---
 
-## Heap
+## HEAP
 ### BOJ
 ### Programmers
 - [더 맵게](https://github.com/MoNireu/Algorithm/blob/main/heap/programmers/42626.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42626)
 - [디스크 컨트롤러](https://github.com/MoNireu/Algorithm/blob/main/heap/programmers/42627.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42627)
 ---
 
-## LinkedList
+## LINKED LIST
 ### BOJ
 ### Programmers
 - [⭐️표 편집](https://github.com/MoNireu/Algorithm/blob/main/linked_list/programmers/81303.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/81303)
 ---
 
-## Queue
+## QUEUE
 ### BOJ
 ### Programmers
 - [다리를 지나는 트럭](https://github.com/MoNireu/Algorithm/blob/main/queue/programmers/42583.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42583#)
 ---
 
-## Sort
+## SORT
 ### BOJ
 ### Programmers
 - [전화번호 목록](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42577.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42577)
@@ -119,7 +119,7 @@
 - [H-Index](https://github.com/MoNireu/Algorithm/blob/main/sort/programmers/42747.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42747)
 ---
 
-## Stack
+## STACK
 ### BOJ
 ### Programmers
 - [프린터](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42587.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42587)
@@ -129,7 +129,7 @@
 - [괄호 변환](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/60058.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60058)
 ---
 
-## String
+## STRING
 ### BOJ
 ### Programmers
 - [신규 아이디 추천](https://github.com/MoNireu/Algorithm/blob/main/string/programmers/72410.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/72410?language=swift#)
