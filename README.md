@@ -21,8 +21,6 @@
 ### BOJ
 - [MooTube(15591번)](https://github.com/MoNireu/Algorithm/blob/main/bfs/boj/15591.py) [(문제보기)](https://www.acmicpc.net/problem/15591)
 
-
-
 ## Binary Search
 ### Programmers
 - [입국심사](https://github.com/MoNireu/Algorithm/blob/main/binary_search/programmers/43238.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/43238)
@@ -53,7 +51,6 @@
 - [⭐️LCS(9251번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/9251.py) [(문제보기)](https://www.acmicpc.net/problem/9251)
 - [연속합(1912번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1912.py) [(문제보기)](https://www.acmicpc.net/problem/1912)
 - [⭐️평범한 배낭(12865번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/12865.py) [(문제보기)](https://www.acmicpc.net/problem/12865)
-
 
 ## Greedy
 ### BOJ
@@ -99,6 +96,7 @@
 - [주식가격](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42584.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42584)
 - [크레인 인형뽑기 게임](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/64061.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - [짝지어 제거하기](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/12973.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/12973)
+- [괄호 변환](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/60058.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
 ## String
 ### Programmers
