@@ -61,7 +61,7 @@
 ## ETC
 ### BOJ
 ### Programmers
-- [뉴스 클러스터링](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17677.swift) [(문제보기)](https:programmers.co.kr/learn/courses/30/lessons/17677)
+- [뉴스 클러스터링](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17677.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17677)
 - [카펫](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/42842.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [로또의 최고 순위와 최저 순위](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77484.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77484)
 - [[1차] 추석 트래픽](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17676.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17676)
