@@ -6,6 +6,7 @@
 - [BINARY SEARCH](#binary-search)
 - [DFS](#dfs)
 - [DP](#dp)
+- [ETC](#etc)
 - [GREEDY](#greedy)
 - [HASH](#hash)
 - [HEAP](#heap)
@@ -14,7 +15,6 @@
 - [SORT](#sort)
 - [STACK](#stack)
 - [STRING](#string)
-- [ETC](#etc)
 ---
 
 ## BFS
