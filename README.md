@@ -21,6 +21,7 @@
 ### BOJ
 - [MooTube(15591번)](https://github.com/MoNireu/Algorithm/blob/main/bfs/boj/15591.py) [(문제보기)](https://www.acmicpc.net/problem/15591)
 ### Programmers
+- [가장 먼 노드](https://github.com/MoNireu/Algorithm/blob/main/bfs/programmers/49189.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/49189)
 ---
 
 ## BINARY SEARCH
