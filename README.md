@@ -121,6 +121,7 @@
 ## QUEUE
 ### BOJ
 ### Programmers
+- [⭐️자물쇠와 열쇠](https://github.com/MoNireu/Algorithm/blob/main/queue/programmers/60059.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60059)
 - [다리를 지나는 트럭](https://github.com/MoNireu/Algorithm/blob/main/queue/programmers/42583.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42583#)
 ---
 
