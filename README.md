@@ -13,6 +13,7 @@
 - [HEAP](#heap)
 - [LINKED LIST](#linked-list)
 - [QUEUE](#queue)
+- [RECURSION](#recursion)
 - [SORT](#sort)
 - [STACK](#stack)
 - [STRING](#string)
@@ -123,6 +124,12 @@
 ### Programmers
 - [⭐️자물쇠와 열쇠](https://github.com/MoNireu/Algorithm/blob/main/queue/programmers/60059.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/60059)
 - [다리를 지나는 트럭](https://github.com/MoNireu/Algorithm/blob/main/queue/programmers/42583.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42583#)
+---
+
+## RECURSION
+### BOJ
+### Programmers
+- [⭐️후보키](https://github.com/MoNireu/Algorithm/blob/main/recursion/programmers/42890.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42890)
 ---
 
 ## SORT
