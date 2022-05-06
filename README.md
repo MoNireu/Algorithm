@@ -47,6 +47,7 @@
 
 ## DP
 ### BOJ
+- [평범한 배낭](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/12865.swift) [(문제보기)](https://www.acmicpc.net/problem/12865)
 - [⭐️괄호 추가하기 3](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/16639.swift) [(문제보기)](https://www.acmicpc.net/problem/16639)
 - [피보나치함수(1003번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1003.py) [(문제보기)](https://www.acmicpc.net/problem/1003)
 - [01타일(1904번)](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1904.py) [(문제보기)](https://www.acmicpc.net/problem/1904)
