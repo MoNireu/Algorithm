@@ -136,6 +136,7 @@
 ## RECURSION
 ### BOJ
 ### Programmers
+- [피로도](https://github.com/MoNireu/Algorithm/blob/main/recursion/programmers/87946.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/87946)
 - [소수 만들기](https://github.com/MoNireu/Algorithm/blob/main/recursion/programmers/12977.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/12977)
 - [호텔 방 배정](https://github.com/MoNireu/Algorithm/blob/main/recursion/programmers/64063.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/64063)
 - [불량 사용자](https://github.com/MoNireu/Algorithm/blob/main/recursion/programmers/64064.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/64064)
