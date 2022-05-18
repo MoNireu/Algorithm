@@ -47,6 +47,7 @@
 
 ## DP
 ### BOJ
+- [RGB거리](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1149.swift) [(문제보기)](https://www.acmicpc.net/problem/1149)
 - [동물원](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1309.swift) [(문제보기)](https://www.acmicpc.net/problem/1309)
 - [1, 2, 3 더하기 3](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/15988.swift) [(문제보기)](https://www.acmicpc.net/problem/15988)
 - [평범한 배낭](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/12865.swift) [(문제보기)](https://www.acmicpc.net/problem/12865)
