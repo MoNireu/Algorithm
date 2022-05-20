@@ -47,6 +47,7 @@
 
 ## DP
 ### BOJ
+- [가장 큰 증가 부분 수열](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/11055.swift) [(문제보기)](https://www.acmicpc.net/problem/11055)
 - [⭐️오르막 수](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/11057.swift) [(문제보기)](https://www.acmicpc.net/problem/11057)
 - [RGB거리](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1149.swift) [(문제보기)](https://www.acmicpc.net/problem/1149)
 - [동물원](https://github.com/MoNireu/Algorithm/blob/main/dp/boj/1309.swift) [(문제보기)](https://www.acmicpc.net/problem/1309)
