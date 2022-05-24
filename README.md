@@ -74,6 +74,7 @@
 ## ETC
 ### BOJ
 ### Programmers
+- [프렌즈4블록](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17679.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17679)
 - [영어 끝말잇기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/12981.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/12981)
 - [예상 대진표](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/12985.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/12985)
 - [뉴스 클러스터링](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17677.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17677)
