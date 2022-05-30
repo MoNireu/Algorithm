@@ -162,6 +162,7 @@
 ## STACK
 ### BOJ
 ### Programmers
+- [이진 변환 반복하기](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/70129.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/70129)
 - [괄호 회전하기](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/76502.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/76502)
 - [프린터](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42587.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42587)
 - [주식가격](https://github.com/MoNireu/Algorithm/blob/main/stack/programmers/42584.py) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/42584)
