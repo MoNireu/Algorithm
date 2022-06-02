@@ -74,6 +74,7 @@
 ## ETC
 ### BOJ
 ### Programmers
+- [2개 이하로 다른 비트](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77885.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77885)
 - [점프와 순간 이동](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/12980.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/12980)
 - [스킬트리](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/49993.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/49993)
 - [캐시](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17680.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17680)
