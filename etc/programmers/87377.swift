@@ -57,7 +57,3 @@ func solution(_ lines:[[Int]]) -> [String] {
     let result = dots.map{$0.joined()}
     return result
 }
-
-func isInteger(_ float: Float) -> Bool {
-    return floorf(float) == float
-}
