@@ -75,6 +75,7 @@
 ## ETC
 ### BOJ
 ### Programmers
+- [교점에 별 만들기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/87377.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/87377)
 - [n^2 배열 자르기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/87390.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/87390)
 - [2개 이하로 다른 비트](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/77885.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/77885)
 - [점프와 순간 이동](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/12980.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/12980)
