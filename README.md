@@ -75,6 +75,7 @@
 ## ETC
 ### BOJ
 ### Programmers
+- [[카카오 인턴] 보석 쇼핑](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/67258.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/67258)
 - [[1차] 셔틀버스](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17678.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17678)
 - [방문 길이](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/49994.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/49994)
 - [교점에 별 만들기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/87377.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/87377)
