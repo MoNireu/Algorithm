@@ -75,6 +75,7 @@
 ## ETC
 ### BOJ
 ### Programmers
+- [다음 큰 숫자](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/12911.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/12911)
 - [퍼즐 조각 채우기](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/84021.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/84021)
 - [[카카오 인턴] 보석 쇼핑](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/67258.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/67258)
 - [[1차] 셔틀버스](https://github.com/MoNireu/Algorithm/blob/main/etc/programmers/17678.swift) [(문제보기)](https://programmers.co.kr/learn/courses/30/lessons/17678)
